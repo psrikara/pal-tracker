@@ -10,5 +10,3 @@ applications:
   https://pal-tracker-surprised-sable-sg.apps.evans.pal.pivotal.io
 
 
-  cd ~/workspace/assignment-submission
-  ./gradlew cloudNativeDeveloperCloudFoundry -PserverUrl=https://pal-tracker-surprised-sable-sg.apps.evans.pal.pivotal.io
